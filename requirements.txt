@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-aws
+langchain-text-splitters
+boto3
+faiss-cpu
+pypdf
+streamlit
+python-dotenv
